@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Melee weapon
+  - Back
+  - GunCamera
+  - Door
+  - Heal
+  - Ammo
+  - lvlUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Gun
+  - Player
+  - Wall
+  - Floor
+  - 
+  - Enemy
+  - Bullet
+  - TakeGun
+  - TakeArmor
+  - LineOfSight
+  - 
+  - text3d
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - lvlUp
+  - Triggers
+  - StairWalls
+  - RoomWalls
+  - HallwayWalls
+  - Interface
+  - Post-processing-main
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Crosshairs
+    uniqueID: 2082114875
+    locked: 0
